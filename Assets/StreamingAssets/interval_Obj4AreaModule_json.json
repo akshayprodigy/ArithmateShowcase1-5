@@ -1,0 +1,156 @@
+{
+  "interventions": [
+
+    {
+      "response_id": "DIG_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": "lets understand how these fractions have the same value.",
+      "audio_file_name": "DIG_wrong1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "Yes that is the correct answer",
+      "audio_file_name": "DIG_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_lets_go_ahead",
+      "conversation_type": "intervention",
+      "response_for_user": "Let's move ahead",
+      "audio_file_name": "Obj4_lets_go_ahead.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest1_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "Why don't you try one more time? You might have missed some parts or selected some extra parts.",
+      "audio_file_name": "Obj4_Quest1_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest2_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": " Numerator of a fraction is the number of sections considered. In this case, the number of sections of the farm that has benches.",
+      "audio_file_name": "Obj4_Quest2_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest2_RO_Hint1_1",
+      "conversation_type": "intervention",
+      "response_for_user": "As you can see, there are 5 sections of the farm that have benches and since there are 8 total number of sections in the farm, the part of the farm that have benches is 5/8. ",
+      "audio_file_name": "Obj4_Quest2_RO_Hint1_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest2_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "A fraction is written as numerator over denominator. The number of sections considered is the numerator and the total number of sections is the denominator.",
+      "audio_file_name": "Obj4_Quest2_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest2_RO_Hint2_1",
+      "conversation_type": "intervention",
+      "response_for_user": "Therefore, the part of the farm that have benches is 5/8. ",
+      "audio_file_name": "Obj4_Quest2_RO_Hint2_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest3_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": " To represent a part of an object as a fraction, find the numerator and denominator.",
+      "audio_file_name": "Obj4_Quest3_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest3_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "This means that the numerator is 3 and the denominator is 4 and the fraction of the circle that is coloured is 3/4.",
+      "audio_file_name": "Obj4_Quest3_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest4_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": " Only the total sections should be considered and not which parts are considered. Here, all shapes have 2 parts coloured out of 4 total parts.Hence all 4 shapes are 2/4.",
+      "audio_file_name": "Obj4_Quest4_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest4_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "This means that the numerator is 3 and the denominator is 4 and the fraction of the circle that is coloured is 3/4. ",
+      "audio_file_name": "Obj4_Quest4_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest5_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The number of sections should only be considered and not which parts are considered. Here, all shapes have 2 parts coloured out of 4 total parts.Hence all 4 shapes are 2/4. ",
+      "audio_file_name": "Obj4_Quest5_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj4_Quest6_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The value of a fractions is 1 whose numerator and denominator is the same.",
+      "audio_file_name": "Obj4_Quest6_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj4_let_see_why_common",
+      "conversation_type": "intervention",
+      "response_for_user": "That does not seem right. Let's learn why?",
+      "audio_file_name": "obj4_let_see_why_common.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

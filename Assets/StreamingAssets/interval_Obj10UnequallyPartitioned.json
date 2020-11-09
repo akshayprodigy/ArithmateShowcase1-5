@@ -1,0 +1,226 @@
+{
+  "interventions": [
+    {
+      "response_id": "Obj10_Quest1_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "Place the pizza such that the all slices in the pizza matches the fraction mentioned on the section.",
+      "audio_file_name": "Obj10_Quest1_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest1_Hint1_1",
+      "conversation_type": "intervention",
+      "response_for_user": "The fraction of each slice of the pizza is 1/number of slices in the pizza. In this case 1/5 ",
+      "audio_file_name": "Obj10_Quest1_Hint1_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest1_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "Place the pizza such that the all slices in the pizza matches the fraction mentioned on the section.",
+      "audio_file_name": "Obj10_Quest1_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "1/2 means there are 2 parts. But as you can see, this pizza is cut into 3 slices. So, it cannot be  placed in this shelf. Try again.",
+      "audio_file_name": "Obj10_Quest2_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "Even if the pizza is cut into 3 parts, one slice is half the pizza. If one slice denotes half, we cannot place this pizza in 1/3 section.",
+      "audio_file_name": "Obj10_Quest2_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2_Hint2_1",
+      "conversation_type": "intervention",
+      "response_for_user": "All 3 slices in the pizza should be of the same size and shape, for the pizza to be placed in 1/3 section.",
+      "audio_file_name": "Obj10_Quest2_Hint2_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2_Hint3",
+      "conversation_type": "intervention",
+      "response_for_user": "1/4 means there should be 4 parts. This pizza clearly has only 3 parts and each part is of a different size. Try again.",
+      "audio_file_name": "Obj10_Quest2_Hint3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right. We won't be able to place this pizza in any of the section because ",
+      "audio_file_name": "Obj10_Quest2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2_Quest",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right. We won't be able to place this pizza in any of the section because",
+      "audio_file_name": "Obj10_Quest2_Quest.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest2_Quest_Hint",
+      "conversation_type": "intervention",
+      "response_for_user": "Try Again",
+      "audio_file_name": "Obj10_Quest2_Quest_Hint.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest3",
+      "conversation_type": "intervention",
+      "response_for_user": "Are they equal?",
+      "audio_file_name": "Obj10_Quest3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest3_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right. Let's compare next slice.",
+      "audio_file_name": "Obj10_Quest3_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest3_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": "Both the slices of pizza are completely different in size and shape. So, they are not equal.",
+      "audio_file_name": "Obj10_Quest3_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_Quest3_correct1",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right. Let's compare last slice.",
+      "audio_file_name": "Obj10_Quest3_correct1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_RO1_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "To represent a part of an unequally cut object, we divide the object to make all parts equal and then count the number of parts coloured ",
+      "audio_file_name": "Obj10_RO1_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_RO1_Hint1_1",
+      "conversation_type": "intervention",
+      "response_for_user": "and the total number of parts to represent the part as a fraction. All parts should be 1/4 as per your answer.",
+      "audio_file_name": "Obj10_RO1_Hint1_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_RO1_Hint1_2",
+      "conversation_type": "intervention",
+      "response_for_user": "Clearly, all parts are not equal in size or shape.",
+      "audio_file_name": "Obj10_RO1_Hint1_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_RO1_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": " You have divided the circle equally. As we can see the denominator part is right. It indicates 5 parts of the circle. But the fraction is wrong. Try Again.",
+      "audio_file_name": "Obj10_RO1_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_RO2_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "Draw a line from the centre of the circle to one of the dots. Remember the line should divide half the pizza into two equal quarters",
+      "audio_file_name": "Obj10_RO2_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+
+    {
+      "response_id": "Obj10_RO3_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "This pizza has 4 slices which are all the same size. This might help you to place the pizza in the right shelf.",
+      "audio_file_name": "Obj10_RO3_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj11_RO1_Quest1_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "Proper fractions represents objects that are less than a whole and have value less than 1. As you can see, this pizza is full and hence we cannot use proper fractions to express its quantity.",
+      "audio_file_name": "Obj11_RO1_Quest1_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj10_RO5_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "Both the coloured part of the circle is 1/8 as the coloured portion is equal in size and shape. If you make the unequally portioned circle to have equal parts, you can see that the coloured part is also 1/8. Therefore, unequally partitioned objects can be represented as fractions by making the size of all parts equal.",
+      "audio_file_name": "Obj10_RO5_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

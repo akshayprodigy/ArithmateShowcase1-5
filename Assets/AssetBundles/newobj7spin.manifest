@@ -1,0 +1,120 @@
+ManifestFileVersion: 0
+CRC: 1960344828
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 8d5c144024bdde152f410a97be70a5ad
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: e08825836b479f75409b2f08b7fb94ca
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ce938221d5611246b7df068c0ecca60, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e839ff52380165844ac577bea1075412, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba5062626420b0d4890dd113b0bd1e17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b94c9754a1a6165459bdea995dececee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0acac7c4ead9aae4ba671e9e05e082ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c9dd0406c4c9dfd49b9d3604c5377671, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57772ca7dc4a95b48b90930e7ca72809, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ecb008090a979dd4ea446aebefbf51cf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9501685994c8f9a4a9d1bd13e5af4d2d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d32a0aa4f4dc4408c3a5e01f3f222c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 83e65d4ac85bf5d4ab21f865c9fb9504, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 910ce68bd2ad1bc4a983b1912cb32c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3d5de0d86afc4e478ae20a2f269fa06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89a914ed06266ee4ca33eea7165f3843, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 98436c2ede2113c4ca89fedee9149640, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a11dd23e08e5cb942a6a6b4da8d43711, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ead390fdfc07074783f848a1acd678a, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+Assets:
+- Assets/fraction scenes/Obj7SpinWheellVoice.unity
+Dependencies: []

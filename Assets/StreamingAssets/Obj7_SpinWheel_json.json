@@ -1,0 +1,100 @@
+{
+  "Introduction": {
+    "flag": "true",
+    "list": [
+        {
+        "sentence": "You have just learnt how to read fractions",
+        "events": "load_next.anim",
+        "audio": "Obj7_learntreadfractions.wav",
+        "actual_answer": "",
+        "Right_answer": [],
+        "Wrong_answer": [],
+        "artifacts": "Obj7_learntreadfractions",
+        "Timeout_answer": [],
+        "Facts": "",
+        "Value_Count": "0",
+        "next_sequence": "false",
+        "Skills": "",
+        "camera_location": "screen",
+        "speaker": "avatar",
+        "context": "mathville"
+      },
+      {
+        "sentence": "Here’s a wheel on which we have different fractions. And here is a pointer",
+        "events": "load_next.anim",
+        "audio": "Obj7_wheelpointer.wav",
+        "actual_answer": "",
+        "Right_answer": [],
+        "Wrong_answer": [],
+        "artifacts": "Obj7_wheelpointer",
+        "Timeout_answer": [],
+        "Facts": "",
+        "Value_Count": "0",
+        "next_sequence": "false",
+        "Skills": "",
+        "camera_location": "screen",
+        "speaker": "avatar",
+        "context": "mathville"
+      },
+      {
+        "sentence": "Tap on the spin button to make wheel spin",
+        "events": "load_next.anim",
+        "audio": "Obj7_Tapspinbutton.wav",
+        "actual_answer": "",
+        "Right_answer": [],
+        "Wrong_answer": [],
+        "artifacts": "Obj7_Tapspinbutton",
+        "Timeout_answer": [],
+        "Facts": "",
+        "Value_Count": "0",
+        "next_sequence": "false",
+        "Skills": "",
+        "camera_location": "screen",
+        "speaker": "avatar",
+        "context": "mathville"
+      },
+      {
+        "sentence": "Once the wheel stops, read out that fraction by clicking on the mike button",
+        "events": "load_next.anim",
+        "audio": "Obj7_readmikebutton.wav",
+        "actual_answer": "",
+        "Right_answer": [],
+        "Wrong_answer": [],
+        "artifacts": "Obj7_readmikebutton",
+        "Timeout_answer": [],
+        "Facts": "",
+        "Value_Count": "0",
+        "next_sequence": "false",
+        "Skills": "",
+        "camera_location": "screen",
+        "speaker": "avatar",
+        "context": "mathville"
+      },
+      {
+        "sentence": "You get only three chances before you get all the fractions right.So go ahead and spin the wheel.",
+        "events": "load_next.anim",
+        "audio": "Obj7_aheadspinwheel.wav",
+        "actual_answer": "",
+        "Right_answer": [],
+        "Wrong_answer": [],
+        "artifacts": "Obj7_aheadspinwheel",
+        "Timeout_answer": [],
+        "Facts": "",
+        "Value_Count": "0",
+        "next_sequence": "false",
+        "Skills": "",
+        "camera_location": "screen",
+        "speaker": "avatar",
+        "context": "mathville"
+      }
+    ]
+  },
+  "Explanation": {
+    "flag": "false",
+    "list": []
+  },
+  "Activity": {
+    "flag": "false",
+    "list": []
+  }
+}

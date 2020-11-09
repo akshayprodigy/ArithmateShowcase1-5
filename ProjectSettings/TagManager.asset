@@ -1,0 +1,132 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - deliveryQueueItem
+  - customer
+  - ingredient
+  - trashbin
+  - product
+  - iconsBig
+  - iconsSmall
+  - icon
+  - ingIcon
+  - serverPlate
+  - candy
+  - deliveryCandy
+  - buyMoreCandy
+  - sideRequest
+  - deliverySideRequest
+  - levelSelectionItem
+  - rawIngredient
+  - grill
+  - coffeeMaker
+  - rawSideRequest
+  - overburnedIngredient
+  - apples_red
+  - tree
+  - apples_yellow
+  - bad_apples_fourth
+  - apple_for_break
+  - bad_apples_half
+  - HalfAppleRed
+  - HalfAppleGreen
+  - FourthAppleRed
+  - FourthAppleGreen
+  - ThirdAppleRed
+  - ThirdAppleGreen
+  - FullRedApple
+  - FullGreenApple
+  - RedAppleTree
+  - GreenAppleTree
+  - cookies
+  - FourthAppleYellow
+  - ThirdAppleYellow
+  - HalfAppleYellow
+  - FullYellowApple
+  - playercollider
+  - Unequal_Pizza_Slice
+  - Equal_Pizza_Slice
+  - Pizza_Box
+  - Notepad_Order
+  - BG_Panel
+  - Notepad_Anim
+  - Numbers
+  - FullApple
+  - FracApple
+  - Fallen Apple
+  - Moving Apple
+  - Map Part
+  - RO Panel
+  - ErrorMsg
+  - marker
+  - Tile
+  - coin
+  - DeathZone
+  - Green
+  - Red
+  - Yellow
+  - RectShade
+  - HexaShade
+  - TriangleShade
+  - PentaShade
+  - biggest_slice
+  - Obj2t2a2
+  - Obj2t3a3
+  - Obj2t1a1
+  - R
+  - G
+  - Y
+  - HighlightApple
+  - HighlightApplePart
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - ingredientsHelper
+  - Layer 1
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3425090433
+    locked: 0
+  - name: Middle
+    uniqueID: 2290450831
+    locked: 0
+  - name: Foreground
+    uniqueID: 3073909875
+    locked: 0
+  - name: New Layer
+    uniqueID: 2585233199
+    locked: 0

@@ -1,0 +1,113 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Scenes/apple stall.unity
+    guid: 7337e679f3bc03d4a8449ed49d08383f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/Obj16/Scene/t1.unity
+    guid: 0cba72ea64b66314cbca6e64dc8d6862
+  - enabled: 0
+    path: Assets/fraction scenes/OBJ_9_more_thenumber_of_parts.unity
+    guid: 8f29ba9434a77744489630b60899e39e
+  - enabled: 0
+    path: Assets/fraction scenes/OBJ_8_N_subscenario_2.unity
+    guid: 780ac61d4fd5adb4a8f816b44a2474ff
+  - enabled: 0
+    path: Assets/fraction scenes/Obj6NumberLine.unity
+    guid: d87e0ec333c12694eaabd6703b0b0808
+  - enabled: 0
+    path: Assets/fraction scenes/Obj7SpinWheel.unity
+    guid: e7d3345cbac6b8347bcac71a86dfc9b3
+  - enabled: 1
+    path: Assets/CanvasFraction/test.unity
+    guid: 0beffa5c46e1c4f489da30571027c896
+  - enabled: 1
+    path: Assets/CanvasFraction/login.unity
+    guid: 9a6a30ac6b7a339449eda996f5eb5083
+  - enabled: 1
+    path: Assets/CanvasFraction/Userlogin.unity
+    guid: 6d0459e889022e64abae64efb8f4f2f2
+  - enabled: 1
+    path: Assets/CanvasFraction/Home_Showcase.unity
+    guid: 03beb86dd2a2ddd42b74307da736f045
+  - enabled: 1
+    path: Assets/fraction scenes/Introdunction&Game.unity
+    guid: deebfb7443b84cb48b8d5d2edf898b76
+  - enabled: 1
+    path: Assets/fraction scenes/Obj1AppleSorting.unity
+    guid: a97f52c2d92365f4785f495e78e91e42
+  - enabled: 1
+    path: Assets/fraction scenes/Obj2FractionasDivision.unity
+    guid: 5936578e1667c6845883ae82bea03054
+  - enabled: 1
+    path: Assets/fraction scenes/Obj3AppleNumDenum.unity
+    guid: 5413252a700c6c24ca852cf61b6e486f
+  - enabled: 1
+    path: Assets/fraction scenes/Obj4AreaModule.unity
+    guid: 7b90373c8a57dfd48820114f7ddbeafc
+  - enabled: 1
+    path: Assets/fraction scenes/Obj5AppleGroup.unity
+    guid: 5e576200bc058474b808a76293c56f52
+  - enabled: 1
+    path: Assets/CanvasFraction/fraction.unity
+    guid: 95fea20790f2a3641bd2b89560d16623
+  - enabled: 1
+    path: Assets/CanvasFraction/mcqFeedBackTest.unity
+    guid: 8e843c1764a6fed41ab4df3a03ef869d
+  - enabled: 0
+    path: Assets/fraction scenes/obj_12_improper_and_mixed.unity
+    guid: 48931a50a00b9224d915f41e9e0f57cc
+  - enabled: 0
+    path: Assets/fraction scenes/Obj11.unity
+    guid: 5d37416b89454164e9660d6b26d433e4
+  - enabled: 0
+    path: Assets/fraction scenes/Obj10.unity
+    guid: 28868efc751ddd744911b2c57f665f5f
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/fraction scenes/Obj7SpinWheellVoiceOld.unity
+    guid: 558fdab5024257841871ef0fba8a5ff3
+  - enabled: 0
+    path: Assets/CanvasFraction/Home.unity
+    guid: dc96dfee71f0c8142b2c8039020353bf
+  - enabled: 0
+    path: Assets/CanvasFraction/BackFromFlash.unity
+    guid: d6f71df251726ea43a88487dc76090ca
+  - enabled: 0
+    path: Assets/fraction scenes/obj 16 folding activity 1.unity
+    guid: 2b618033b02b8ef498e5bc038eab1b95
+  - enabled: 0
+    path: Assets/fraction scenes/obj_15_new_story.unity
+    guid: ffefb25f831c8714e89f685b1e73968d
+  - enabled: 0
+    path: Assets/DropFraction/Kara-FoodDrop/Scenes/Game.unity
+    guid: 53faa398fb0bcd744a05b651112b8673
+  - enabled: 0
+    path: Assets/CanvasFraction/fractionTutorial.unity
+    guid: 9336a8531c63b144c845c2ce1cdb60e3
+  - enabled: 0
+    path: Assets/CanvasFraction/gameOver.unity
+    guid: 003b7da63731b3d44819399f23a90c62
+  - enabled: 0
+    path: Assets/fraction scenes/obj_13_conversion_improper_to_mixed.unity
+    guid: c898c63acc4e2724e987602082e82fa4
+  - enabled: 0
+    path: Assets/Scenes/NojeJs/NjLoadingScene.unity
+    guid: 0b31c75de6e4083488081061d21539f8
+  - enabled: 0
+    path: Assets/Scenes/NojeJs/OpeningScene.unity
+    guid: 0f20fac4c3dcf82499a76e9f0dd30cf1
+  - enabled: 0
+    path: Assets/CanvasFraction/mcqFeedBack.unity
+    guid: 4dc759ad90f1ad748985913d79fe9791
+  m_configObjects: {}

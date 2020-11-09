@@ -1,0 +1,169 @@
+ManifestFileVersion: 0
+CRC: 2740925203
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e8ba1c4fb6266c58f2b432dcb0836995
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 8ccedb2b1af97e9ec3065517ac33833d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 50
+  Script: {instanceID: 0}
+- Class: 58
+  Script: {instanceID: 0}
+- Class: 60
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 104
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba2da070589fc0c45adc098072b78dd2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7065ede038f426a4d8df2e982e5a90a0, type: 3}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1980459831, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1741964061, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1862395651, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1301386320, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2095666955, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -405508275, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -1200242548, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -2061169968, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1367256648, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1573420865, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 2109663825, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9ce938221d5611246b7df068c0ecca60, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f5f67c52d1564df4a8936ccd202a3bd8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ba5062626420b0d4890dd113b0bd1e17, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29914f92883369b4c98998de0b5cb841, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: af420f04bf9431a419aed1cc0ec286c8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d4670614f03464c4cb26f68ca585b877, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b94c9754a1a6165459bdea995dececee, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5d34f984fb1aaee4b88adde525643464, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0acac7c4ead9aae4ba671e9e05e082ca, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5a38a4864189c7e46b5ef5c69c425f62, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 57772ca7dc4a95b48b90930e7ca72809, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fabc8eb8b175a174aa36cc4c87a505a5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d32a0aa4f4dc4408c3a5e01f3f222c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 910ce68bd2ad1bc4a983b1912cb32c4e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c268f2bcbc05e0c47b1673dc66c2c323, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f3d5de0d86afc4e478ae20a2f269fa06, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 231c5f4db18f4c244b2e95a81a1e95a3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aad062cd9431ea546a307cc76e9adeb6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: edc429cd171dbab4e9e9be2f71bbc50c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 89a914ed06266ee4ca33eea7165f3843, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a11dd23e08e5cb942a6a6b4da8d43711, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ef9780eea2478f44fb641ae4f67b72fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ead390fdfc07074783f848a1acd678a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3e512b9fd2f4b484db3736faef092851, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ed0070ff2d4a45742909824c3183e34e, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 157
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 258
+  Script: {instanceID: 0}
+- Class: 320
+  Script: {instanceID: 0}
+- Class: 156049354
+  Script: {instanceID: 0}
+- Class: 483693784
+  Script: {instanceID: 0}
+- Class: 1839735485
+  Script: {instanceID: 0}
+Assets:
+- Assets/fraction scenes/Obj14_Mixed_ImproperFractions.unity
+- Assets/fraction scenes/Obj14.unity
+Dependencies: []

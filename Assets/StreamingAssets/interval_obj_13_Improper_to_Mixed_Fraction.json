@@ -1,0 +1,160 @@
+{
+  "interventions": [
+    {
+      "response_id": "obj_13_right",
+      "conversation_type": "intervention",
+      "response_for_user": " You are right",
+      "audio_file_name": "obj_13_right.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": "Let me remind you of mixed fractions .They are made of whole number and a proper fraction.",
+      "audio_file_name": "obj_13_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "Check how many whole pizzas are there and write it in this box and the remaining pizza can be represented in terms of fraction in these boxes ",
+      "audio_file_name": "obj_13_hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO1_Reinfo_1",
+      "conversation_type": "intervention",
+      "response_for_user": "It is easy to tell quantity in terms of mixed fraction than improper fractions as mixed fractions are easy to understand",
+      "audio_file_name": "obj_13_RO1_Reinfo_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO1_Reinfo_2",
+      "conversation_type": "intervention",
+      "response_for_user": "Any mixed fraction can be used in daily life to tell quantity. So 3 1/4 kgs of sugar too, can be used during shopping for groceries",
+      "audio_file_name": "obj_13_RO1_Reinfo_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO1_Reinfo_3",
+      "conversation_type": "intervention",
+      "response_for_user": "Any mixed fraction can be used in daily life to tell quantity. So 1 1/2 litres of milk too can be used during shopping for groceries. ",
+      "audio_file_name": "obj_13_RO1_Reinfo_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO1_Reinfo_4",
+      "conversation_type": "intervention",
+      "response_for_user": "It is easy to tell quantity in terms of mixed fractions than improper fractions as mixed fractions are easy to understand",
+      "audio_file_name": "obj_13_RO1_Reinfo_4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO2_Reinfo_1",
+      "conversation_type": "intervention",
+      "response_for_user": "You have to combine the four 1/4 to say that there is one whole in 5/4 where as just by looking at 1 1/4, you can say that there is one whole in 1 1/4",
+      "audio_file_name": "obj_13_RO2_Reinfo_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+  {
+      "response_id": "obj_13_everything_right",
+      "conversation_type": "intervention",
+      "response_for_user": "Very Good. I must say you remember your concepts very well",
+      "audio_file_name": "obj_13_everything_right.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+  {
+      "response_id": "obj_13_divisor_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": " The number by which we divide is called the divisor.Here we are dividing 7 by 2, hence the divisor is 2",
+      "audio_file_name": "obj_13_divisor_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+      "response_id": "obj_13_quotient_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": " The result obtained by division is called the quotient. Therefore, the quotient is 3",
+      "audio_file_name": "obj_13_quotient_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+      "response_id": "obj_13_remainder_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": " The left over number after division is called the  Remainder. Here, the remainder is 1.",
+      "audio_file_name": "obj_13_remainder_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+      "response_id": "obj_13_RO3_Reinfo",
+      "conversation_type": "intervention",
+      "response_for_user": "To convert improper to mixed fractions, we divide the numerator by the denominator of the fraction. Multiplying the numerator and the denominator will not yield a mixed fraction, but a whole number",
+      "audio_file_name": "obj_13_RO3_Reinfo.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO3_Reinfo_1",
+      "conversation_type": "intervention",
+      "response_for_user": "To convert improper to mixed fractions, we divide the numerator by the denominator of the fraction and not the other way around. Multiplying the numerator and the denominator will not yield a mixed fraction, but a whole number. ",
+      "audio_file_name": "obj_13_RO3_Reinfo_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_13_RO4_Reinfo",
+      "conversation_type": "intervention",
+      "response_for_user": "The numerator has to be divided by the denominator of the improper fraction to arrive at the correct mixed fraction. ",
+      "audio_file_name": "obj_13_RO4_Reinfo.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+
+
+
+
+
+  ]
+}

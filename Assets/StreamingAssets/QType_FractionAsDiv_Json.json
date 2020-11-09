@@ -1,0 +1,79 @@
+﻿{
+    "list": [
+      {
+        "questionId": "0",
+        "question": "1. Express given image as division statement", 
+		"SubQuestion": "a. ",
+        "events": "Activity.anim",
+        "audio": "FractAsDiv_Ques1.wav",
+        "rightAns_Num": "1",
+        "rightAns_Den": "3",
+		"rightAns":[],
+        "artifacts": "FractAsDiv_Ques1",
+		"numeratorShadeCount": "",
+		"denominatorShadeCount": "",
+		"questionSprite":"FractAsDiv_1",
+		"shadePartImg":""
+      },
+	  {
+        "questionId": "1",
+        "question": "1. Write the fraction which represents the shaded figure", 
+		"SubQuestion": "b. ",
+        "events": "Activity.anim",
+        "audio": "FractAsDiv_Ques2.wav",
+        "rightAns_Num": "1",
+        "rightAns_Den": "8",
+		"rightAns":[],
+        "artifacts": "FractAsDiv_Ques2",
+		"numeratorShadeCount": "",
+		"denominatorShadeCount": "",
+		"questionSprite":"FractAsDiv_2",
+		"shadePartImg":""
+      },
+	  {
+        "questionId": "2",
+        "question": "1. Write the fraction which represents the shaded figure", 
+		"SubQuestion": "c. ",
+        "events": "Activity.anim",
+        "audio": "FractAsDiv_Ques3.wav",
+        "rightAns_Num": "1",
+        "rightAns_Den": "6",
+		"rightAns":[],
+        "artifacts": "FractAsDiv_Ques3",
+		"numeratorShadeCount": "",
+		"denominatorShadeCount": "",
+		"questionSprite":"FractAsDiv_3",
+		"shadePartImg":""
+      },
+	  {
+        "questionId": "3",
+        "question": "1. Write the fraction which represents the shaded figure", 
+		"SubQuestion": "d. ",
+        "events": "Activity.anim",
+        "audio": "FractAsDiv_Ques4.wav",
+        "rightAns_Num": "1",
+        "rightAns_Den": "5",
+		"rightAns":[],
+        "artifacts": "FractAsDiv_Ques4",
+		"numeratorShadeCount": "",
+		"denominatorShadeCount": "",
+		"questionSprite":"FractAsDiv_4",
+		"shadePartImg":""
+      },
+	  {
+        "questionId": "4",
+        "question": "1. Write the fraction which represents the shaded figure", 
+		"SubQuestion": "e. ",
+        "events": "Activity.anim",
+        "audio": "FractAsDiv_Ques5.wav",
+        "rightAns_Num": "1",
+        "rightAns_Den": "4",
+		"rightAns":[],
+        "artifacts": "FractAsDiv_Ques5",
+		"numeratorShadeCount": "",
+		"denominatorShadeCount": "",
+		"questionSprite":"FractAsDiv_5",
+		"shadePartImg":""
+      }
+    ]
+  }

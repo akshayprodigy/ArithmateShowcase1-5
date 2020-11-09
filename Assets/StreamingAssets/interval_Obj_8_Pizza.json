@@ -1,0 +1,87 @@
+{
+  "interventions": [
+    
+   
+    {
+      "response_id": "well_done",
+      "conversation_type": "intervention",
+      "response_for_user": " Well dun ",
+      "audio_file_name": "well_done.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+"response_id": "place the right",
+      "conversation_type": "intervention",
+      "response_for_user": "Please place the right slice",
+      "audio_file_name": "place the right.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	},
+{
+"response_id":"select the right pizza",
+      "conversation_type": "intervention",
+      "response_for_user": "select the right pizza slice and pack it",
+      "audio_file_name": "select the right pizza.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	},
+	{
+"response_id":"a_fraction_is_devided",
+      "conversation_type": "intervention",
+      "response_for_user": "A fraction is a representation of a part of an object that is equally divided. the quantity ordered and the quantity delivered is different. The customer is unhappy! Let's see why.",
+      "audio_file_name": "a_fraction_is_devided.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	}
+,
+{
+"response_id":"RO2_division_is_splitting",
+      "conversation_type": "intervention",
+      "response_for_user": "Division is splitting into equal parts or groups. ",
+      "audio_file_name": "RO2_division_is_splitting.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	},
+{
+"response_id":"RO2_since_fractions_are",
+      "conversation_type": "intervention",
+      "response_for_user": "Since fractions are like division, objects which are unequally partitioned cannot be represented as fractions. ",
+      "audio_file_name": "RO2_since_fractions_are.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	},
+{
+"response_id":"RO2_therefore_the_circle",
+      "conversation_type": "intervention",
+      "response_for_user": " Therefore, the circle which is partitioned equally can only be expressed as a fraction.",
+      "audio_file_name":"RO2_therefore_the_circle.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	},
+{
+"response_id":"RO2_theparts",
+      "conversation_type": "intervention",
+      "response_for_user": "The parts of the other shapes are all not equal insize and hence cannot be represented as fractions",
+      "audio_file_name":"RO2_theparts.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+	}
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "interventions": [
+
+    {
+      "response_id": "obj16_RO1_b",
+      "conversation_type": "intervention",
+      "response_for_user": "Adding 2/2 to 1/4 will result is a fraction that is bigger than 1/4 and hence the result will not equivalent to 1/4. You need to multiply 1/4 with a fraction that has a value of 1 to get a fraction that is equal in value to 1/4.",
+      "audio_file_name": "obj16_RO1_b.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_RO1_c",
+      "conversation_type": "intervention",
+      "response_for_user": "Subtracting 2/2 to 1/4 will result is a fraction that is bigger than 1/4 and hence the result will not equivalent to 1/4. You need to multiply 1/4 with a fraction that has a value of 1 to get a fraction that is equal in value to 1/4.",
+      "audio_file_name": "obj16_RO1_c.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "obj16_RO1_d",
+      "conversation_type": "intervention",
+      "response_for_user": "You need to multiply 1/4 with a fraction that has a value of 1 to get a fraction that is equal in value to 1/4.",
+      "audio_file_name": "obj16_RO1_d.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "obj16_RO2_3_Wrong",
+      "conversation_type": "intervention",
+      "response_for_user": "Multiplying any fraction by a fraction whose value is 1 does not change the value of the fraction but the result is different.2/2 or 3/3 or 4/4 = 1 or in other words, the value of a fraction is 1 whose numerator and denominator is the same. If multiplying a number by 1 will result in the same number, multiplying a fraction by 1 will not change the value of the fraction. Multiplying  1/2 and 2/2 will not change the value of the fraction as 2/2 is same as 1. ",
+      "audio_file_name": "obj16_RO2_3_Wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "obj16_RO4_A_E",
+      "conversation_type": "intervention",
+      "response_for_user": "Let's represent 1/4 and 4/16 visually. If you observe, the part that is shaded represents 1/4 and 4/16 respectively. The shaded part in both circles representing 2 different fractions are the same. Hence the fraction 4/16 which is a result of multiplying 1/4 and 4/4, is not 4 times greater than 1/4. Instead, 4/16 and 1/4 are both of the same value, making these 2 fractions as an equivalent fraction. The value of the fraction 4/4 is 1. Hence, multiplying a fraction by another fraction whose value is 1 will result in an equivalent fraction. ",
+      "audio_file_name": "obj16_RO4_A_E.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "obj16_RO4_B_C_D",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right. Multiplying a fraction by another fraction whose value is 1 will result in a fraction which also will have the same value as the original fraction. Let's represent 1/4 and 4/16 visually. If you observe, the part that is shaded represents 1/4 and 4/16 respectively. The shaded part in both circles representing 2 different fractions are the same. Hence the fraction 4/16 which is a result of multiplying 1/4 and 4/4, is not 4 times greater than 1/4. Instead, 4/16 and 1/4 are both of the same value, making these 2 fractions as an equivalent fraction.",
+      "audio_file_name": "obj16_RO4_B_C_D.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+  ]
+}

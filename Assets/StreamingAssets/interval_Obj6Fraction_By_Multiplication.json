@@ -1,0 +1,166 @@
+{
+  "interventions": [
+
+
+    {
+      "response_id": "obj16_hint_fold_you_have_to_make.wav",
+      "conversation_type": "intervention",
+      "response_for_user": " You have to make a complete fold - which means both the ends of the paper should meet perfectly. Try again ",
+      "audio_file_name": "obj16_hint_fold_you_have_to_make.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_fold_if_you_fold",
+      "conversation_type": "intervention",
+      "response_for_user": " If you fold from this end you will not be able to fold the paper in the highlighted area. Try another end",
+      "audio_file_name": "obj16_hint_fold_if_you_fold.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_fold1_go_ahead",
+      "conversation_type": "intervention",
+      "response_for_user": " Go ahead and fold the paper to perfectly fit within the dotted lines. ",
+      "audio_file_name": "obj16_hint_fold1_go_ahead.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_input_fold1_that_is",
+      "conversation_type": "intervention",
+      "response_for_user": "That is correct",
+      "audio_file_name": "obj16_input_fold1_that_is.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_input_fold1_this_is_quite_two_parts",
+      "conversation_type": "intervention",
+      "response_for_user": "This is quite simple.There are two parts here and one of it is shaded. How will you represent part of the paper that is shaded?",
+      "audio_file_name": "obj16_input_fold1_this_is_quite_two_parts.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_input_fold1_this_is_quite_four_parts",
+      "conversation_type": "intervention",
+      "response_for_user": "This is quite simple.There are four parts here and two of it is shaded. How will you represent part of the paper that is shaded?",
+      "audio_file_name": "obj16_input_fold1_this_is_quite_four_parts.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_input_fold1_this_is_quite_six_parts",
+      "conversation_type": "intervention",
+      "response_for_user": "This is quite simple.There are six parts here and three of them are shaded. How will you represent part of the paper that is shaded?",
+      "audio_file_name": "obj16_input_fold1_this_is_quite_six_parts.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_fold2_go_ahead_not_fold_once",
+      "conversation_type": "intervention",
+      "response_for_user": " Go ahead and fold the paper two times such that the paper fits  within the dotted lines ",
+      "audio_file_name": "obj16_hint_fold2_go_ahead_not_fold_once.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_fold2_go_ahead_not_fold_second",
+      "conversation_type": "intervention",
+      "response_for_user": " You have folded the paper once. Now go ahead and make the second fold. Ensure the paper fits within the dotted lines. ",
+      "audio_file_name": "obj16_hint_fold2_go_ahead_not_fold_second.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_fold2_go_ahead_not_fold_third",
+      "conversation_type": "intervention",
+      "response_for_user": " You have folded the paper twice. Now go ahead and make the third fold. Ensure the paper fits within the dotted lines.",
+      "audio_file_name": "obj16_hint_fold2_go_ahead_not_fold_third.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_fold1_try_again_one_more",
+      "conversation_type": "intervention",
+      "response_for_user": "That does not seem right. Try again one more time.",
+      "audio_file_name": "obj16_hint_fold1_try_again_one_more.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_input_fold1_this_is_quite_six_parts",
+      "conversation_type": "intervention",
+      "response_for_user": "This is quite simple.There are six parts here and three of them are shaded. How will you represent part of the paper that is shaded?",
+      "audio_file_name": "obj16_input_fold1_this_is_quite_six_parts.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_hint_quest4",
+      "conversation_type": "intervention",
+      "response_for_user": "If you look at the papers you will realize that the shaded area in all the papers are same. Only the number of parts are different. What are such fractions called? Try again",
+      "audio_file_name": "obj16_hint_quest4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj16_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right",
+      "audio_file_name": "obj16_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_16_Traverse_connector",
+      "conversation_type": "intervention",
+      "response_for_user": "Let us understand this better",
+      "audio_file_name": "obj_16_Traverse_connector.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj16_let_see_why_common",
+      "conversation_type": "intervention",
+      "response_for_user": "That does not seem right. Let's learn why?",
+      "audio_file_name": "obj16_let_see_why_common.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]}

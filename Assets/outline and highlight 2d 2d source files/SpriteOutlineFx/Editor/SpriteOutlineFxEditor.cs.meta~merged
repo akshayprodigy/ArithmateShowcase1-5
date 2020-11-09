@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+guid: eb8bd539913b84cd3ae2b123bd35533e
+=======
+<<<<<<< HEAD:Assets/Scripts/AppleObj_5/Obj5Drag.cs.meta
+guid: cb98146b2075b08418c6a6d61149e34f
+=======
+guid: eb8bd539913b84cd3ae2b123bd35533e
+>>>>>>> f91594126f41665f3946347c850f844b392ec18b:Assets/outline and highlight 2d 2d source files/SpriteOutlineFx/Editor/SpriteOutlineFxEditor.cs.meta
+>>>>>>> f91594126f41665f3946347c850f844b392ec18b
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

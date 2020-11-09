@@ -1,0 +1,213 @@
+{
+  "interventions": [
+    
+   
+    {
+      "response_id": "obj_12_scentence_3_hint1",
+      "conversation_type": "intervention",
+      "response_for_user": " The customer wants 2/6 of a pizza. Ensure that the fraction and the pizza packed match.",
+      "audio_file_name": "obj_12_scentence_3_hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_scentence_3_hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "The number of pizza slices to be packed should be according to the fraction given. Check again. ",
+      "audio_file_name": "obj_12_scentence_3_hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_lo_1_yes",
+      "conversation_type": "intervention",
+      "response_for_user": "You are right. We can represent objects more than a whole as fractions too. Lets see how.  ",
+      "audio_file_name": "obj_12_lo_1_yes.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_lo_1_no",
+      "conversation_type": "intervention",
+      "response_for_user": "We can represent objects more than a whole as fractions too. Lets see how. ",
+      "audio_file_name": "obj_12_lo_1_no.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_1_1",
+      "conversation_type": "intervention",
+      "response_for_user": "Mixed fraction is a combination of a whole number and a proper fraction.",
+      "audio_file_name": "obj_12_ro_1_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_12_ro_1_2",
+      "conversation_type": "intervention",
+      "response_for_user": "A mixed fraction is a combination of a whole number and a proper fraction. Here is a combination of 1 and 1/2 representing a combination of 1 full pizza and half of a pizza. Therefore, 1 1/2 is a mixed fraction. ",
+      "audio_file_name": "obj_12_ro_1_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_2",
+      "conversation_type": "intervention",
+      "response_for_user": "Fractions whose numerator is bigger than the denominator are called Improper fractions. Look at this fraction, 3/2. The numerator 3 is bigger than the denominator 2. Hence, 3/2 is an improper fraction.",
+      "audio_file_name": "obj_12_ro_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_12_lo_3_no",
+      "conversation_type": "intervention",
+      "response_for_user": "A group of unit fractions added will result in another fraction ",
+      "audio_file_name": "obj_12_lo_3_no.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_lo_3_drag_slice",
+      "conversation_type": "intervention",
+      "response_for_user": "Try to place the slices in such a way that it forms a full pizza.",
+      "audio_file_name": "obj_12_lo_3_drag_slice.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+   "response_id": "obj_12_lo_3_drag_slice_2",
+      "conversation_type": "intervention",
+      "response_for_user": "Now we have a pizza that is full and cut into 4 slices and one slice of 1/4. ",
+      "audio_file_name": "obj_12_lo_3_drag_slice_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_12_ro_3",
+      "conversation_type": "intervention",
+      "response_for_user": "Improper fractions are used to represent objects whose value is more than 1 and this pizza is clearly less than 1 and hence cannot be expressed as a proper fraction. As you can see, 7/4 of pizza forms more than one whole pizza and hence 7/4 is an improper fraction.",
+      "audio_file_name": "obj_12_ro_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_12_lo_4_false",
+      "conversation_type": "intervention",
+      "response_for_user": "Fractions with same numerator and denominator is equal 1. Here, all 4 parts in the pizza are present. Hence, we can represent it as both 4/4 and 1",
+      "audio_file_name": "obj_12_lo_4_false.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_4",
+      "conversation_type": "intervention",
+      "response_for_user": "We learnt that a fraction that have the same numerator and denominator carries a value of 1. Such fractions are also called Improper fractions.",
+      "audio_file_name": "obj_12_ro_4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_5_a",
+      "conversation_type": "intervention",
+      "response_for_user": "Mixed Fractions and Improper Fractions are used to represent objects that are greater than 1. Here we have a pizza less than a whole. ",
+      "audio_file_name": "obj_12_ro_5_a.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_5_b",
+      "conversation_type": "intervention",
+      "response_for_user": "We can represent this as 3/3 which is an improper fraction but we cannot represent this pizza as a mixed fraction. Mixed fractions are used to represent objects more than 1",
+      "audio_file_name": "obj_12_ro_5_b.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+      {
+      "response_id": "obj_12_ro_6_1_ad",
+      "conversation_type": "intervention",
+      "response_for_user": "As you can see, the value of the figure is more than 1 and hence the figure can be represented both as an improper fraction and as a mixed fraction.",
+      "audio_file_name": "obj_12_ro_6_1_ad.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_6_1_bc",
+      "conversation_type": "intervention",
+      "response_for_user": " As you can see, the value of the figure is more than 1 and hence the figure can be represented both as an improper fraction and as a mixed fractions. ",
+      "audio_file_name": "obj_12_ro_6_1_bc.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+   "response_id": "obj_12_ro_6_1_f",
+      "conversation_type": "intervention",
+      "response_for_user": "Let's quickly revise what are proper fractions ",
+      "audio_file_name": "obj_12_ro_6_1_f.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_6_2",
+      "conversation_type": "intervention",
+      "response_for_user": "The correct representation of 1 1/3 is here.The number line should be divided in such a way that the parts between the whole numbers should be divided as per the number in the denominator.  ",
+      "audio_file_name": "obj_12_ro_6_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_12_ro_6_3",
+      "conversation_type": "intervention",
+      "response_for_user": "The correct location of 7/5 on the number line is here. The 2 points after 5/5 ",
+      "audio_file_name": "obj_12_ro_6_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+    
+    
+    
+    
+
+
+  ]
+}
+

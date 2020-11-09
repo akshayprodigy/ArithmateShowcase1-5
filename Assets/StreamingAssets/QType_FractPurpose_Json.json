@@ -1,0 +1,20 @@
+﻿{
+    "list": [
+      {
+        "questionId": "0",
+        "question": "1. Which of the following can be represented as fractions?", 
+		"SubQuestion": "a. ",
+        "events": "Activity.anim",
+        "audio": "FractPurpose_Ques1.wav",
+        "rightAns_Num": "",
+        "rightAns_Den": "",
+		"rightAns":["a", "c"],
+        "artifacts":"FractPurpose_Ques1",
+		"numeratorShadeCount": "",
+		"denominatorShadeCount": "",
+		"questionSprite":"",
+		"questionSprite_list":["FractPurpose_1", "FractPurpose_2", "FractPurpose_3"],
+		"shadePartImg":""
+      }
+    ]
+}

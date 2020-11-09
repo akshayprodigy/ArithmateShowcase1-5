@@ -1,0 +1,75 @@
+{
+  "interventions": [
+    {
+      "response_id": "Obj7_Quest1_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The numerator has to be read as a cardinal number - One, Two, Three",
+      "audio_file_name": "Obj7_Quest1_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj7_Quest2_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The denominator is read as ordinal numbers such as second, third, fourth",
+      "audio_file_name": "Obj7_Quest2_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj7_Quest2_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "We consider the denominator as singular when the numerator is one and plural when the numerator is not one. Here the denominator is read as fifths",
+      "audio_file_name": "Obj7_Quest2_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj7_Quest3_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The numerator is read as cardinal numbers and the denominator is read as ordinal numbers. Here the given fraction is read as Two-Fifths.",
+      "audio_file_name": "Obj7_Quest3_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj7_Quest3_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "We consider the denominator as singular when the numerator is one and plural when the numerator is not one. Here the fraction is read as Two -fifths",
+      "audio_file_name": "Obj7_Quest3_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj7_Quest4_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "1/4 is read as one - quarter or one fourths",
+      "audio_file_name": "Obj7_Quest4_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj7_Quest4_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "The numerator is read as cardinal numbers and the denominator is read as ordinal numbers",
+      "audio_file_name": "Obj7_Quest4_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

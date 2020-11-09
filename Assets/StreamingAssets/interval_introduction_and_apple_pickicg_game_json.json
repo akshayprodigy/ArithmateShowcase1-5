@@ -1,0 +1,97 @@
+{
+  "interventions": [
+
+    {
+      "response_id": "DIG_wrong1",
+      "conversation_type": "intervention",
+      "response_for_user": "lets understand how these fractions have the same value.",
+      "audio_file_name": "DIG_wrong1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "Yes that is the correct answer",
+      "audio_file_name": "DIG_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_Lo1_Reinfo1",
+      "conversation_type": "intervention",
+      "response_for_user": "Whole numbers are used to count objects which are whole and fractions are used to count objects which are less than a whole.",
+      "audio_file_name": "Obj1_Lo1_Reinfo1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_Lo1_Reinfo2",
+      "conversation_type": "intervention",
+      "response_for_user": "Show group of whole apples and label it as We use WHOLE NUMBERS to count these apples that are whole",
+      "audio_file_name": "Obj1_Lo1_Reinfo2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_Lo1_Reinfo3",
+      "conversation_type": "intervention",
+      "response_for_user": "and show another group of apples that are broken apples and label it as We use FRACTIONS to count apples that are not whole",
+      "audio_file_name": "Obj1_Lo1_Reinfo3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_Lo2_Reinfo1",
+      "conversation_type": "intervention",
+      "response_for_user": "Fractions are written as 2 numbers seperated by a line. For example, 1/2",
+      "audio_file_name": "Obj1_Lo2_Reinfo1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_Lo2_Reinfo2",
+      "conversation_type": "intervention",
+      "response_for_user": "The line seperating the numbers in a fraction are called as Vinculum",
+      "audio_file_name": "Obj1_Lo2_Reinfo2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_tut1",
+      "conversation_type": "intervention",
+      "response_for_user": "Tap on any tree to shake it",
+      "audio_file_name": "Obj1_tut1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj1_tut2",
+      "conversation_type": "intervention",
+      "response_for_user": "Tap on the apples on the ground to collect them",
+      "audio_file_name": "Obj1_tut2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+
+  ]
+}

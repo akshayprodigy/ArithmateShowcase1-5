@@ -1,0 +1,377 @@
+{
+  "interventions": [
+    {
+      "response_id": "default_response",
+      "conversation_type": "intervention",
+      "response_for_user": "sorry i am unable to answer you now we ll see it later",
+      "audio_file_name": "default_response.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": "Let's understand this better",
+      "audio_file_name": "DIG_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Since these fractions",
+      "conversation_type": "intervention",
+      "response_for_user": "Since these fractions all represents the same amount of chocolates, the value of the fraction is the same even though the they are represented differently.",
+      "audio_file_name": "Since these fractions.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_right",
+      "conversation_type": "intervention",
+      "response_for_user": "That is the correct answer. ",
+      "audio_file_name": "DIG_right.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_ShrutiScaffolding",
+      "conversation_type": "intervention",
+      "response_for_user": "Shruti has received more chocolate than Rohan and Mina because ",
+      "audio_file_name": "ShrutiScaffolding.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+      "response_id": "DIG_mina_highlight",
+      "conversation_type": "intervention",
+      "response_for_user": "Mina ?",
+      "audio_file_name": "mina_highlight.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+{
+      "response_id": "DIG_rohan_highlight",
+      "conversation_type": "intervention",
+      "response_for_user": "Rohan ? ",
+      "audio_file_name": "rohan_highlight.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },{
+      "response_id": "DIG_everyone_highlight",
+      "conversation_type": "intervention",
+      "response_for_user": "All have received the same?",
+      "audio_file_name": "everyone_highlight.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+
+    {
+      "response_id": "observeproperly",
+      "conversation_type": "intervention",
+      "response_for_user": "If you observe properly you will know that all the parts are equal",
+      "audio_file_name": "observeproperly.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "chocolateover",
+      "conversation_type": "intervention",
+      "response_for_user": "Placeing the chocolate over each other ",
+      "audio_file_name": "chocolateover.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+ {
+      "response_id": "WE_WILL_NOW_STACK",
+      "conversation_type": "intervention",
+      "response_for_user": "We will  now stack the chocolate pieces over each other to verify, if all the chocolates are of same size",
+      "audio_file_name": "WE_WILL_NOW_STACK.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Check_if_they_are",
+      "conversation_type": "intervention",
+      "response_for_user": "Check if they are equal in size ",
+      "audio_file_name": "Check_if_they_are.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_ShrutiScaffolding1",
+      "conversation_type": "intervention",
+      "response_for_user": "If the whole is divided into less number of parts the portion size of each part becomes more but the overall size still remains the same. Now can you tell, who has received more portion of the chocolate",
+      "audio_file_name": "ShrutiScaffolding1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+
+    {
+      "response_id": "incorrect_answer_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": " Why don't you try one more time? ",
+      "audio_file_name": "incorrect_answer_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "incorrect_answer_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": " In a fraction, all parts should be equal. Make sure you cut the chocolates such that all parts are equal. Give it another go. ",
+      "audio_file_name": "incorrect_answer_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "sh_Lesser_the_parts_but",
+      "conversation_type": "intervention",
+      "response_for_user": " Lesser the parts more the portion size ",
+      "audio_file_name": "sh_Lesser_the_parts_but.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "sh_Shrutis_recieved_but",
+      "conversation_type": "intervention",
+      "response_for_user": " Shruti's recieved a bigger portion of chocolate ",
+      "audio_file_name": "sh_Shrutis_recieved_but.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "sh_Shruti_has_received_but",
+      "conversation_type": "intervention",
+      "response_for_user": " Shruti has received half the chocolate which is more than Rohan & Mina ",
+      "audio_file_name": "sh_Shruti_has_received_but.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ro_Rohan_has_received",
+      "conversation_type": "intervention",
+      "response_for_user": " Rohan has received more pieces of chocolates ",
+      "audio_file_name": "ro_Rohan_has_received.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ro_Size_of_Rohans",
+      "conversation_type": "intervention",
+      "response_for_user": " Size of Rohan's chocolate is bigger ",
+      "audio_file_name": "ro_Size_of_Rohans.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ro_Fractional_value",
+      "conversation_type": "intervention",
+      "response_for_user": "Fractional value of the chocolate is greater",
+      "audio_file_name": "ro_Fractional_value.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "RohanScaffolding1",
+      "conversation_type": "intervention",
+      "response_for_user": "Why do you think Rohan has received more portion of the chocolate than Shruti and Mina ?",
+      "audio_file_name": "RohanScaffolding1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "RohanScaffolding2",
+      "conversation_type": "intervention",
+      "response_for_user": "More number of pieces does not mean that he has received more chocolate.He might have received more pieces but those pieces are smaller in size.",
+      "audio_file_name": "RohanScaffolding2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "now_drag_chocolate",
+      "conversation_type": "intervention",
+      "response_for_user": "  Now drag the chocolate to the plate ",
+      "audio_file_name": "now_drag_chocolate.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Check_if_The_portion_of",
+      "conversation_type": "intervention",
+      "response_for_user": " Check if the portion of chocolate each person received are equal in size. ",
+      "audio_file_name": "Check_if_The_portion_of.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+
+    {
+      "response_id": "rof_traversal",
+      "conversation_type": "intervention",
+      "response_for_user": " This flashcard gives you a quick overview about what a fraction is and how to represent a fraction.",
+      "audio_file_name": "rof_traversal_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "rof_traversal",
+      "conversation_type": "intervention",
+      "response_for_user": "  A fraction is the measure of a part of a whole. To represent the parts of a whole, we need a numerator and a denominator separated by a line. ",
+      "audio_file_name": "rof_traversal_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "rof_traversal",
+      "conversation_type": "intervention",
+      "response_for_user": "  The numerator is the number of equal parts of the whole being considered and the denominator is the total number of equal parts, a whole is divided into. ",
+      "audio_file_name": "rof_traversal_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "rof_traversal",
+      "conversation_type": "intervention",
+      "response_for_user": " What part of the shape is colored yellow? To find coloured part of the shape, we write parts considered over the total number of parts which is one – fourth. This is how we represent a fraction.",
+      "audio_file_name": "rof_traversal_4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal1",
+      "conversation_type": "intervention",
+      "response_for_user": " This flashcard will help you understand the importance of equal parts in an object to represent fractions in the form of parts considered over total number of parts.  ",
+      "audio_file_name": "eof_traversal1_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal1",
+      "conversation_type": "intervention",
+      "response_for_user": "  As you can see, there are 3 total parts in this object, out of which one part is shaded.  ",
+      "audio_file_name": "eof_traversal1_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal1",
+      "conversation_type": "intervention",
+      "response_for_user": " Observe how each and every part of the object is of the same size. Since, all parts are of the same size, the part that is shaded is represented as 1/3.  ",
+      "audio_file_name": "eof_traversal1_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal1",
+      "conversation_type": "intervention",
+      "response_for_user": " Therefore, we can represent an object divided into equal parts as number of parts considered over total number of parts. ",
+      "audio_file_name": "eof_traversal1_4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal2",
+      "conversation_type": "intervention",
+      "response_for_user": " In this flashcard, we will see what happens when we represent an object which does not have equal parts as number of parts considered upon total number of parts.",
+      "audio_file_name": "eof_traversal2_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal2",
+      "conversation_type": "intervention",
+      "response_for_user": " IThere are three total parts and one shaded part in this shape. We cannot represent the shaded yellow part as 1/3, since all parts are not equal.   ",
+      "audio_file_name": "eof_traversal2_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal2",
+      "conversation_type": "intervention",
+      "response_for_user": "  This flashcard will show you why. If you observe carefully, we can see that the shaded part is exactly half of the circle.   ",
+      "audio_file_name": "eof_traversal2_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "eof_traversal2",
+      "conversation_type": "intervention",
+      "response_for_user": "If the shaded part is half, how can we represent the shaded part as one third? Therefore, always make sure that the all the parts are equal in size before representing the fraction as number of parts considered over the total number of parts.",
+      "audio_file_name": "eof_traversal2_4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

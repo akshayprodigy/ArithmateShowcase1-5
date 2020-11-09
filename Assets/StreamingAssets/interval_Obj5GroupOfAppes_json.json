@@ -1,0 +1,144 @@
+{
+  "interventions": [
+    {
+      "response_id": "DIG_wrong1",
+      "conversation_type": "intervention",
+      "response_for_user": "lets understand how these fractions have the same value.",
+      "audio_file_name": "DIG_wrong1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "Yes that is the correct answer",
+      "audio_file_name": "DIG_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "You_can_do_better",
+      "conversation_type": "intervention",
+      "response_for_user": " You can do a better job in counting than this. Give it another try. ",
+      "audio_file_name": "You_can_do_better.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Objects_in_Groups_too",
+      "conversation_type": "intervention",
+      "response_for_user": " Fractions can be used represent objects in groups too ",
+      "audio_file_name": "Objects_in_Groups_too.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Both_Objects_in_Groups",
+      "conversation_type": "intervention",
+      "response_for_user": "Fractions can be used to represent both objects in a group as well as a part of whole object.",
+      "audio_file_name": "Both_Objects_in_Groups.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "number_of_objects_considered",
+      "conversation_type": "intervention",
+      "response_for_user": "The number of objects considered/ chosen is the numerator and number of total objects in the group is denominator while representing an object in a group as fractions. ( Number of objects considered over total number of objects in the group = numerator / denominator )",
+      "audio_file_name": "number_of_objects_considered.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "unable_pack_apples_as_req",
+      "conversation_type": "intervention",
+      "response_for_user": "You have pack the apples of the same colour in each case. I am sure you can do a better job. Try one more time )",
+      "audio_file_name": "unable_pack_apples_as_req.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "count_the_case_red_apples",
+      "conversation_type": "intervention",
+      "response_for_user": "You have to count the case which has red apples. Try one more time, I am sure you will get it.",
+      "audio_file_name": "count_the_case_red_apples.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "count_total_cases",
+      "conversation_type": "intervention",
+      "response_for_user": "You have to count the total cases we have. Try one more time, I am sure you will get it.",
+      "audio_file_name": "count_total_cases.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Obj5_case_has_red_apples",
+      "conversation_type": "intervention",
+      "response_for_user": "You have to count the case which has red apples. Try one more time, I am sure you will get it.",
+      "audio_file_name": "Obj5_case_has_red_apples.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Obj5_groups_as_a_fraction",
+      "conversation_type": "intervention",
+      "response_for_user": "You can represent an object in a set of objects just like you can represent a group in a set of groups as a fraction.",
+      "audio_file_name": "Obj5_groups_as_a_fraction.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Obj5_group_among_other_groups",
+      "conversation_type": "intervention",
+      "response_for_user": "The number of groups considered/ chosen from a set of groups is numerator and total number of groups is denominator while representing a group among other groups.",
+      "audio_file_name": "Obj5_group_among_other_groups.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Obj5_Fractions_can_be_used",
+      "conversation_type": "intervention",
+      "response_for_user": "We can use fractions to represent a part of group of objects. Fractions can be used not only for part of a whole but also for a group of objects. Fractions can represent a part of a group of objects",
+      "audio_file_name": "Obj5_Fractions_can_be_used.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+	{
+      "response_id": "Obj5_group_does_not_matter",
+      "conversation_type": "intervention",
+      "response_for_user": "We can use fractions to represent one group of objects among other groups of objects. The number of objects in the group does not matter as we need to find what fraction of the given groups have red apples ",
+      "audio_file_name": "Obj5_group_does_not_matter.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "interventions": [
+    {
+      "response_id": "Obj6_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "3/5 is the correct representation of the fraction of red apples collected",
+      "audio_file_name": "Obj6_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj6_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "The fraction to be plotted is 3/5. Identify where 3/5 lies on the number line and tap on the point precisely.",
+      "audio_file_name": "Obj6_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj6_Quest1_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "To denote a fraction on a number line, the number line has to be divided into parts.The number of parts in a number line is determined by the denominator. ",
+      "audio_file_name": "Obj6_Quest1_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj6_Quest1_RO_Hint1_1",
+      "conversation_type": "intervention",
+      "response_for_user": "If a fraction is 2/15, to plot it on a number line, the number line has to be divided into 15 equal parts.",
+      "audio_file_name": "Obj6_Quest1_RO_Hint1_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj6_Quest2_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The number line has to be drawn between 0 and 1 as value of an object less than a whole is less than 1.",
+      "audio_file_name": "Obj6_Quest2_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj6_Quest2_RO_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "The number line has to be drawn between 0 and 1 as value of an object less than a whole is less than 1. 0 to 1 is same as 0 to 2/2 as 2/2 = 1",
+      "audio_file_name": "Obj6_Quest2_RO_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj6_Quest3_RO_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "All parts in a number line should be equal and the number of parts should be equal to the denominator.",
+      "audio_file_name": "Obj6_Quest3_RO_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

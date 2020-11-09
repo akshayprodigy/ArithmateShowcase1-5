@@ -1,0 +1,36 @@
+{
+  "interventions": [
+
+    {
+      "response_id": "obj7Goreadfraction",
+      "conversation_type": "intervention",
+      "response_for_user": "Go ahead and read the fraction",
+      "audio_file_name": "obj7Goreadfraction.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj7Greatreadinganother",
+      "conversation_type": "intervention",
+      "response_for_user": "THAT’s Great. Try reading another fraction",
+      "audio_file_name": "obj7Greatreadinganother.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj7Tryagain",
+      "conversation_type": "intervention",
+      "response_for_user": "Let's Try again",
+      "audio_file_name": "obj7Tryagain.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

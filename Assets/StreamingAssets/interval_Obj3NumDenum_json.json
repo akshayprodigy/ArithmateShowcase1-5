@@ -1,0 +1,330 @@
+{
+  "interventions": [
+    
+    {
+      "response_id": "DIG_wrong1",
+      "conversation_type": "intervention",
+      "response_for_user": "lets understand how these fractions have the same value.",
+      "audio_file_name": "DIG_wrong1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "Yes that is the correct answer",
+      "audio_file_name": "DIG_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_note_1",
+      "conversation_type": "intervention",
+      "response_for_user": "We will understand how 2 units of 1/4 became 2/4 in the chapter going forward.",
+      "audio_file_name": "ACT_note_1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_note_2",
+      "conversation_type": "intervention",
+      "response_for_user": "We will understand how 3 units of 1/6 became 3/6 in the chapter going forward.",
+      "audio_file_name": "ACT_note_2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_note_3",
+      "conversation_type": "intervention",
+      "response_for_user": "We will understand how 4 units of 1/8 became 4/8 in the chapter going forward.",
+      "audio_file_name": "ACT_note_3.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_note_4",
+      "conversation_type": "intervention",
+      "response_for_user": "We will understand how 2 units of 1/3 became 2/3 in the chapter going forward.",
+      "audio_file_name": "ACT_note_4.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_note_5",
+      "conversation_type": "intervention",
+      "response_for_user": "We will understand how 3 units of 1/5 became 3/5 in the chapter going forward.",
+      "audio_file_name": "ACT_note_5.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_note_6",
+      "conversation_type": "intervention",
+      "response_for_user": "We will understand how 4 units of 1/7 became 4/7 in the chapter going forward.",
+      "audio_file_name": "ACT_note_6.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_scaffold_wrong_quest",
+      "conversation_type": "intervention",
+      "response_for_user": "This isn't right. If you see carefully you will understand that these pieces perfectly fit in.",
+      "audio_file_name": "ACT_scaffold_wrong_quest.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_find_next",
+      "conversation_type": "intervention",
+      "response_for_user": "Here if you see - the pieces are cut such that we are able to fit the considered part in it. So we can say that these fractions are equivalent - Move to the next number",
+      "audio_file_name": "ACT_find_next.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_scaffold_to_act",
+      "conversation_type": "intervention",
+      "response_for_user": "Do these slices of the pizza fit into the considered part perfectly? ",
+      "audio_file_name": "ACT_scaffold_to_act.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_scaffold_right_quest",
+      "conversation_type": "intervention",
+      "response_for_user": " Now that you know that these piece fit perfectly ,can you tell if the fraction representing these two pizza's are equivalent or Not equivalent",
+      "audio_file_name": "ACT_scaffold_right_quest.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_fit_ans_no",
+      "conversation_type": "intervention",
+      "response_for_user": "That's not right, As these pieces perfectly fit into the considered part, so the value of considered part remains the same, so we can say that these pieces can form equivalent fractions.",
+      "audio_file_name": "ACT_fit_ans_no.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_fit_ans_yes",
+      "conversation_type": "intervention",
+      "response_for_user": "Now that you know that these piece fit perfectly, can you tell if we cut the  pizza in these many parts will it be equivalent or Not equivalent",
+      "audio_file_name": "ACT_fit_ans_yes.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_not_fit_ans_yes",
+      "conversation_type": "intervention",
+      "response_for_user": "That's not right, here the pieces don't fit perfectly in the considered part. They will only fit perfectly if we increase or decrease the considered part  and if we do that, the value of the fractions will change. So here we can say that these cut's won't make an eqivalent fraction.",
+      "audio_file_name": "ACT_not_fit_ans_no.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_not_fit_ans_no",
+      "conversation_type": "intervention",
+      "response_for_user": "Now that you know that these piece don't fit perfectly, can you tell if we cut the  pizza in these many parts will it be equivalent or Not equivalent",
+      "audio_file_name": "ACT_not_fit_ans_yes.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_lets_try_next",
+      "conversation_type": "intervention",
+      "response_for_user": "Let's try for the next set of cuts.",
+      "audio_file_name": "ACT_lets_try_next.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_eq1",
+      "conversation_type": "intervention",
+      "response_for_user": "As you can see, the slices you placed in the container does not fit perfectly.",
+      "audio_file_name": "ACT_eq1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_eq2",
+      "conversation_type": "intervention",
+      "response_for_user": "Since the container can hold exactly half a pizza, these pizza slices does not equal the half pizza given. ",
+      "audio_file_name": "ACT_eq2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_go_and_check",
+      "conversation_type": "intervention",
+      "response_for_user": "Go ahead and recheck if the pizzas are equivalent or not.",
+      "audio_file_name": "ACT_go_and_check.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_not_eq1",
+      "conversation_type": "intervention",
+      "response_for_user": "As you can see,the container can hold exactly half a pizza and the slices you placed in the container fit in perfectly ",
+      "audio_file_name": "ACT_not_eq1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_empty_pan",
+      "conversation_type": "intervention",
+      "response_for_user": "Place pizza slices in the container. ",
+      "audio_file_name": "ACT_empty_pan.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ACT_complete",
+      "conversation_type": "intervention",
+      "response_for_user": "This shows that the size of the pizzas are all the same but they can be represented differently as fractions.",
+      "audio_file_name": "ACT_complete.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Increase_the_number_of",
+      "conversation_type": "intervention",
+      "response_for_user": " Increase the number of slices here to form a pizza that is equivalent to the original pizza.  ",
+      "audio_file_name": "Increase_the_number_of.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "ro1_answer1_a_b",
+      "conversation_type": "intervention",
+      "response_for_user": "  You are right. You need to know that The number of apples placed in the case is the number of parts considered. Hence both number of apples in a case and the number of parts considered can  both be called as the numerator ",
+      "audio_file_name": "ro1_answer_a_b.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ro1_answer1_c",
+      "conversation_type": "intervention",
+      "response_for_user": " You are right, the top number is the numerator but the numerator is also the number of parts considered from an object or a group of objects ",
+      "audio_file_name": "ro1_answer_c.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ro2_answer2_a_b",
+       "conversation_type": "intervention",
+      "response_for_user": " You are right. What you also should know is that The total number of slots in the case is the number of parts the whole is divided into.Hence both number of slots in a case and number of parts the whole is divided into can be called as the denominator",
+      "audio_file_name": "ro2_answer_a_b.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     
+     {
+      "response_id": "ro1_answer2_c",
+       "conversation_type": "intervention",
+      "response_for_user": "You are right, the bottom number is the denominator and denominator is also the total number of equal parts in a whole or an object in a group of objects ",
+      "audio_file_name": "ro2_answer_c.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "ro2_answer_wrong",
+       "conversation_type": "intervention",
+      "response_for_user":  "Remember that the top number is the numerator and the bottom number is the denominator",
+      "audio_file_name": "ro2_answer_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "ro3_answer_wrong",
+        "conversation_type": "intervention",
+      "response_for_user": "We learnt that If a whole is not divided into parts, then we consider the whole as one part and the denominator will simply be 1.",
+      "audio_file_name": "ro3_answer_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+      {
+      "response_id": "ro4_answer_wrong",
+        "conversation_type": "intervention",
+      "response_for_user":  "Have a look at this apple. This is one whole apple. So the denomintor here will be one.if the denominator is zero, there will be no apple. That is the reason why we can never have 0 as the denominator.",
+      "audio_file_name": "ro4_answer_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+ {
+      "response_id": "exp_answer_a",
+        "conversation_type": "intervention",
+      "response_for_user":   "You can do a better job in counting than this. Give it another try.",
+      "audio_file_name": "exp_answer_a.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+     
+
+
+  ]
+}
+ 

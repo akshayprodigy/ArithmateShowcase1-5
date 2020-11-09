@@ -1,0 +1,116 @@
+{
+  "interventions": [
+
+    {
+      "response_id": "DIG_wrong1",
+      "conversation_type": "intervention",
+      "response_for_user": "lets understand how these fractions have the same value.",
+      "audio_file_name": "DIG_wrong1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "DIG_correct",
+      "conversation_type": "intervention",
+      "response_for_user": "Yes that is the correct answer",
+      "audio_file_name": "DIG_correct.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_Hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The goal is to split the 12 apples such that all the trays have the same number of apples. Check and move the apples between the trays to get it right",
+      "audio_file_name": "Obj2_Hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_Hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "If you have placed more apples in one tray than the others, move the extra apples to the other trays. Ensure that the number of apples on each tray is the same",
+      "audio_file_name": "Obj2_Hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_q2_ans1",
+      "conversation_type": "intervention",
+      "response_for_user": "Yes, you are right, there are four apples in each tray",
+      "audio_file_name": "Obj2_q2_ans1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_q2_H1",
+      "conversation_type": "intervention",
+      "response_for_user": "Are you sure?",
+      "audio_file_name": "Obj2_q2_H1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_q2_H2",
+      "conversation_type": "intervention",
+      "response_for_user": "Count the number of apples in each tray",
+      "audio_file_name": "Obj2_q2_H2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_RO_quest1_reonfo1",
+      "conversation_type": "intervention",
+      "response_for_user": "Division is splitting a given amount equally. Similarly, fractions is splitting a single object into equal parts. Hence fractions and the operation division is similar to each other. ",
+      "audio_file_name": "Obj2_RO_quest1_reonfo1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_RO_quest1_reonfo2",
+      "conversation_type": "intervention",
+      "response_for_user": "Similarly, fractions is splitting a single object into equal parts",
+      "audio_file_name": "Obj2_RO_quest1_reonfo2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_RO_quest2_reonfo1",
+      "conversation_type": "intervention",
+      "response_for_user": "Division is splitting a given amount equally.",
+      "audio_file_name": "Obj2_RO_quest2_reonfo1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "Obj2_RO_quest2_reonfo2",
+      "conversation_type": "intervention",
+      "response_for_user": "Similarly, fractions is splitting a single object into equal parts",
+      "audio_file_name": "Obj2_RO_quest2_reonfo2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

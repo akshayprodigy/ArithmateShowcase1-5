@@ -1,0 +1,158 @@
+{
+  "interventions": [
+    
+   
+    {
+      "response_id": "obj_15_1b2_hint1",
+      "conversation_type": "intervention",
+      "response_for_user": " The customer wants half a cookie slab. Ensure that the fraction matches the cookie slab packed. ",
+      "audio_file_name": "obj_15_1b2_hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_1b2_hint2",
+      "conversation_type": "intervention",
+      "response_for_user": " The amount of cookie slab to be packed should be according to the fraction given. Check again.",
+      "audio_file_name": "obj_15_1b2_hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_15_1b2_wrong_ans",
+      "conversation_type": "intervention",
+      "response_for_user": " The tray from which you have picked up the cookie slab isn't right. Pick from the tray that matches the number of parts in the cookie slab and the denominator.",
+      "audio_file_name": "obj_15_1b2_wrong_ans.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+      {
+      "response_id": "obj_15_2b4_hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The customer wants 2/4 of a cookie slab. Ensure that the fraction matches the cookie slab packed.",
+      "audio_file_name": "obj_15_2b4_hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+      {
+      "response_id": "obj_15_2b4_hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "The amount of cookie slab to be packed should be according to the fraction given. Check again.",
+      "audio_file_name": "obj_15_2b4_hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     
+      {
+      "response_id": "obj_15_4b8_hint1",
+      "conversation_type": "intervention",
+      "response_for_user": "The customer wants 4/8 of a cookie slab. Ensure that the fraction matches the cookie slab packed. ",
+      "audio_file_name": "obj_15_4b8_hint1.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_4b8_hint2",
+      "conversation_type": "intervention",
+      "response_for_user": "The amount of cookie slab to be packed should be according to the fraction given. Check again.",
+      "audio_file_name": "obj_15_4b8_hint2.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_ro_1_wrong",
+      "conversation_type": "intervention",
+      "response_for_user": " Fractions are Equivalent if the quantity represented is same but the number of parts are different. All the circles here have different number of parts. 4 of them have the same size as the circle shaded, except for 1. This one is not equivalent to any of the other circles.",
+      "audio_file_name": "obj_15_ro_1_wrong.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_plot_1b2_mistake",
+      "conversation_type": "intervention",
+      "response_for_user": "Identify where 1/2 is on the number line and tap on the point precisely.",
+      "audio_file_name": "obj_15_plot_1b2_mistake.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_plot_2b4_mistake",
+      "conversation_type": "intervention",
+      "response_for_user": "Identify where 2/4 is on the number line and tap on the point precisely.",
+      "audio_file_name": "obj_15_plot_2b4_mistake.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_plot_4b8_mistake",
+      "conversation_type": "intervention",
+      "response_for_user": "Identify where 4/8 is on the number line and tap on the point precisely.",
+      "audio_file_name": "obj_15_plot_4b8_mistake.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_RO_3_option_b",
+      "conversation_type": "intervention",
+      "response_for_user": "If you observe the number lines, carefully, you can tell that equivalent fractions align at the same point on the number lines",
+      "audio_file_name": "obj_15_RO_3_option_b.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+    {
+      "response_id": "obj_15_RO_3_option_c",
+      "conversation_type": "intervention",
+      "response_for_user": "If you observe the number lines, carefully, you can tell that equivalent fractions align at the same point on the number lines",
+      "audio_file_name": "obj_15_RO_3_option_c.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj_15_RO_3_option_d",
+      "conversation_type": "intervention",
+      "response_for_user": "If you observe the number lines, carefully, you can tell that equivalent fractions align at the same point on the number lines",
+      "audio_file_name": "obj_15_RO_3_option_d.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    },
+     {
+      "response_id": "obj15_let_see_why_common",
+      "conversation_type": "intervention",
+      "response_for_user": "That does not seem right. Let's learn why?",
+      "audio_file_name": "obj15_let_see_why_common.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

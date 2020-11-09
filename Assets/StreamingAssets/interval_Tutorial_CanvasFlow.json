@@ -1,0 +1,15 @@
+{
+  "interventions": [
+     {
+      "response_id": "CanvasTutorialNotCorrectEntry",
+      "conversation_type": "intervention",
+      "response_for_user": "Please click on the shown buttons",
+      "audio_file_name": "obj5_let_see_why_common.wav",
+      "function_call": "resume()",
+      "to_conversation_builder": "false",
+      "context": "default",
+      "context_based_flag": "false"
+    }
+
+  ]
+}

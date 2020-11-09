@@ -1,0 +1,128 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &6494953852671113056
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 6494953852671113070}
+  - component: {fileID: 6494953852671113069}
+  - component: {fileID: 6494953852671113068}
+  - component: {fileID: 6494953852671113058}
+  - component: {fileID: 6494953852671113057}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &6494953852671113070
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6494953852671113056}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &6494953852671113069
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6494953852671113056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 29914f92883369b4c98998de0b5cb841, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  AppleFallingSpeed: 0
+  IsGameOn: 0
+  isGamePause: 0
+  isFirstTime: 1
+  isObj1On: 0
+  isObj3On: 0
+  isObj4On: 0
+  isObj5On: 0
+  isObj11On: 0
+  isObj10On: 0
+  isObj5_AppleGroup: 0
+--- !u!114 &6494953852671113068
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6494953852671113056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9ce938221d5611246b7df068c0ecca60, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  conversationText: 
+--- !u!114 &6494953852671113058
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6494953852671113056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ba5062626420b0d4890dd113b0bd1e17, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  isNum: 0
+  isDenum: 0
+  isWhole: 0
+  isLO2_Num: 0
+  isLO3_Den: 0
+  DoneButton: {fileID: 0}
+  FuncrionName: 
+  ans: 
+  numberOfAttempt: 0
+  isTray1: 0
+  isTray2: 0
+  isTray3: 0
+  CountingFlashcard: {fileID: 0}
+  countingOkButton: {fileID: 0}
+  beforeFlashCard: {fileID: 0}
+  noOfAppplesinTray1: 0
+  noOfAppplesinTray2: 0
+  noOfAppplesinTray3: 0
+--- !u!114 &6494953852671113057
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 6494953852671113056}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 260b312fea9699d49a557237a5ba47c3, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  highlightColor: {r: 0, g: 1, b: 0, a: 1}
+  a:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}

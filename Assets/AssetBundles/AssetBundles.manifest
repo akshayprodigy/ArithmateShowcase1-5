@@ -1,0 +1,61 @@
+ManifestFileVersion: 0
+CRC: 1699371836
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: newnumber
+      Dependencies: {}
+    Info_1:
+      Name: newfairscene
+      Dependencies: {}
+    Info_2:
+      Name: newobj7spin
+      Dependencies: {}
+    Info_3:
+      Name: obj2scene
+      Dependencies: {}
+    Info_4:
+      Name: obj1
+      Dependencies: {}
+    Info_5:
+      Name: obj3
+      Dependencies: {}
+    Info_6:
+      Name: obj4
+      Dependencies: {}
+    Info_7:
+      Name: obj5
+      Dependencies: {}
+    Info_8:
+      Name: obj6
+      Dependencies: {}
+    Info_9:
+      Name: obj8
+      Dependencies: {}
+    Info_10:
+      Name: obj9
+      Dependencies: {}
+    Info_11:
+      Name: obj11
+      Dependencies: {}
+    Info_12:
+      Name: obj15
+      Dependencies: {}
+    Info_13:
+      Name: obj16
+      Dependencies: {}
+    Info_14:
+      Name: obj10
+      Dependencies: {}
+    Info_15:
+      Name: obj13
+      Dependencies: {}
+    Info_16:
+      Name: obj14
+      Dependencies: {}
+    Info_17:
+      Name: obj12
+      Dependencies: {}
+    Info_18:
+      Name: obj7
+      Dependencies: {}
