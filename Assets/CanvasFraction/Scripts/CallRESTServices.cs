@@ -812,11 +812,16 @@ public class CallRESTServices : MonoBehaviour
 
                 // new canvas 17/02/2020
                 if (UtilityREST.topic_name != "Not Found")
-                    StartCoroutine(LoadYourAsyncScene(UtilityArtifacts.FlashCardSceneNumber));
-                else if (UtilityArtifacts.scene_to_load_after_canvas == "obj2")
-                    StartCoroutine(LoadYourAsyncScene(5));//0
-                else if (UtilityArtifacts.scene_to_load_after_canvas == "obj3")
-                    StartCoroutine(LoadYourAsyncScene(6));//0
+                {
+                    Debug.Log("get = " + UtilityArtifacts.scene_to_load_after_canvas);
+                    if (UtilityArtifacts.scene_to_load_after_canvas == "obj2")
+                        StartCoroutine(LoadYourAsyncScene(6));//0
+                    else if (UtilityArtifacts.scene_to_load_after_canvas == "obj3")
+                        StartCoroutine(LoadYourAsyncScene(7));//0
+                    //StartCoroutine(LoadYourAsyncScene(UtilityArtifacts.FlashCardSceneNumber));
+                }
+                    
+               
                 else 
                     StartCoroutine(LoadYourAsyncScene(7));//0
                 PlayerPrefs.SetString("introduction_title", name);
@@ -890,6 +895,7 @@ public class CallRESTServices : MonoBehaviour
         if (loadScene)
         {
             StartCoroutine(LoadYourAsyncScene(2));
+
         }
         loadScene = false;
 

@@ -300,7 +300,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         break;
                     case 10:
                         HideSegmentQuestioms();
-                        ShowSegment("Active Experimentation");
+                        ShowSegment("Visual QTypes");
                         Invoke("FadeIn", 8);
                         break;
                     case 11:
@@ -308,8 +308,8 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         ShowSegmentQuestioms();
                         hideRatingBox();
                         UnHideoptions();
-                        segmentQuesTitleText.text = "Active Experimentation";
-                        segmentQuestionText.text = "1.	How were the 4 activities?";
+                        segmentQuesTitleText.text = "Visual QTypes";
+                        segmentQuestionText.text = "1.	How were the Visual Qtypes at the end of the objective session?";
                         a.gameObject.SetActive(true);
                         b.gameObject.SetActive(true);
                         c.gameObject.SetActive(true);
@@ -325,8 +325,8 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         toggleGroup.SetAllTogglesOff();
                         break;
                     case 12:
-                        segmentQuesTitleText.text = "Active Experimentation";
-                        segmentQuestionText.text = "2.	Were you able to perform the activities with ease?";
+                        segmentQuesTitleText.text = "Visual QTypes";
+                        segmentQuestionText.text = "2.	Were you able to solve these Visual Qtypes with ease?";
                         a.GetComponentInChildren<Text>().text = "Yes";
                         b.GetComponentInChildren<Text>().text = "No";
                         c.gameObject.SetActive(false);
@@ -336,8 +336,8 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         toggleGroup.SetAllTogglesOff();
                         break;
                     case 13:
-                        segmentQuesTitleText.text = "Active Experimentation";
-                        segmentQuestionText.text = "3.	Did the Active Experimentation module correlate well with the Learning Experience?";
+                        segmentQuesTitleText.text = "Visual QTypes";
+                        segmentQuestionText.text = "3.	Did the Visual QTypes module correlate well with the Learning Experience?";
                         a.GetComponentInChildren<Text>().text = "Yes";
                         b.GetComponentInChildren<Text>().text = "No";
                         c.gameObject.SetActive(false);
@@ -349,7 +349,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                     case 14:
                         HideSegment();
                         ShowSegmentQuestioms();
-                        segmentQuesTitleText.text = "Active Experimentation";
+                        segmentQuesTitleText.text = "Visual QTypes";
                         segmentQuestionText.text = "4.	Any additional inputs";
                         a.gameObject.SetActive(false);
                         b.gameObject.SetActive(false);
@@ -393,7 +393,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         HideSegment();
                         ShowSegmentQuestioms();
                         segmentQuesTitleText.text = "Concrete Experience";
-                        segmentQuestionText.text = "1.	How was the experience of paper folding? ";
+                        segmentQuestionText.text = "1.	How was the overall experience of using the app?";
                         a.GetComponentInChildren<Text>().text = "Excellent";
                         b.GetComponentInChildren<Text>().text = "Good";
                         c.GetComponentInChildren<Text>().text = "Average";
@@ -405,7 +405,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         break;
                     case 3:
                         segmentQuesTitleText.text = "Concrete Experience";
-                        segmentQuestionText.text = "2.	Could you understand the process of Forming Equivalent Fractions by Multiplication?";
+                        segmentQuestionText.text = "2.	Could you understand the concepts that were taught through the objectives?";
                         a.GetComponentInChildren<Text>().text = "Yes";
                         b.GetComponentInChildren<Text>().text = "No";
                         c.gameObject.SetActive(false);
@@ -439,10 +439,8 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                 case 6:
                         
 
-                    HideSegment();
-                    ShowSegmentQuestioms();
                     segmentQuesTitleText.text = "Concrete Experience";
-                    segmentQuestionText.text = "5.	How well were you able to understand the concept taught ?";// explanation ?
+                    segmentQuestionText.text = "5.	How did you find the voice over?";// explanation ?
                     c.gameObject.SetActive(true);
                     d.gameObject.SetActive(true);
                     e.gameObject.SetActive(true);
@@ -460,22 +458,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                     HideSegment();
                     ShowSegmentQuestioms();
                     segmentQuesTitleText.text = "Concrete Experience";
-                    segmentQuestionText.text = "6.	How did you find the voice over? ";// explanation ? Were you able to understand the concept well?
-                    c.gameObject.SetActive(true);
-                    d.gameObject.SetActive(true);
-                    e.gameObject.SetActive(true);
-                    a.GetComponentInChildren<Text>().text = "Excellent";
-                    b.GetComponentInChildren<Text>().text = "Good";
-                    c.GetComponentInChildren<Text>().text = "Average";
-                    d.GetComponentInChildren<Text>().text = "Bad ";
-                    e.GetComponentInChildren<Text>().text = "Poor";
-                    e.gameObject.SetActive(false);
-                    commentInputText.text = "";
-                    toggleGroup.SetAllTogglesOff();
-                    break;
-                case 8:
-                    segmentQuesTitleText.text = "Concrete Experience";
-                    segmentQuestionText.text = "7.	Were you able to navigate through the app easily?";
+                    segmentQuestionText.text = "6.	Were you able to navigate through the app easily? ";
                     a.GetComponentInChildren<Text>().text = "Yes";
                     b.GetComponentInChildren<Text>().text = "No";
                     c.gameObject.SetActive(false);
@@ -484,7 +467,8 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                     commentInputText.text = "";
                     toggleGroup.SetAllTogglesOff();
                     break;
-                case 9:
+               
+                case 8:
                     segmentQuesTitleText.text = "Concrete Experience";
                     segmentQuestionText.text = "8.	Did you like the elements (shapes, images etc.) used in the app?";
                     a.GetComponentInChildren<Text>().text = "Yes";
@@ -495,7 +479,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                     commentInputText.text = "";
                     toggleGroup.SetAllTogglesOff();
                     break;
-                case 10:
+                case 9:
                     segmentQuesTitleText.text = "Concrete Experience";
                     segmentQuestionText.text = "9.	Did you like the colours used in the app?";
                     a.GetComponentInChildren<Text>().text = "Yes";
@@ -506,7 +490,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                     commentInputText.text = "";
                     toggleGroup.SetAllTogglesOff();
                     break;
-                case 11:
+                case 10:
                     segmentQuesTitleText.text = "Concrete Experience";
                     segmentQuestionText.text = "10.	Did you enjoy using the app?";
                     a.GetComponentInChildren<Text>().text = "Yes";
@@ -517,7 +501,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                     commentInputText.text = "";
                     toggleGroup.SetAllTogglesOff();
                     break;
-                case 12:
+                case 11:
                         HideSegment();
                         ShowSegmentQuestioms();
                         segmentQuesTitleText.text = "Concrete Experience";
@@ -530,12 +514,12 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 13:
+                    case 12:
                         HideSegmentQuestioms();
                         ShowSegment("Canvas");
                         Invoke("FadeIn", 8);
                         break;
-                    case 14:
+                    case 13:
                         HideSegment();
                         ShowSegmentQuestioms();
                         segmentQuesTitleText.text = "Canvas";
@@ -554,7 +538,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 15:
+                    case 14:
                         segmentQuesTitleText.text = "Canvas";
                         segmentQuestionText.text = "2.	Did the Canvas Tutorial help?";
                         a.GetComponentInChildren<Text>().text = "Yes";
@@ -565,7 +549,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 16:
+                    case 15:
                         segmentQuesTitleText.text = "Canvas";
                         segmentQuestionText.text = "3.	Could you attempt any questions?";
                         a.GetComponentInChildren<Text>().text = "Yes";
@@ -576,7 +560,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 17:
+                    case 16:
                         segmentQuesTitleText.text = "Canvas";
                         segmentQuestionText.text = "4.	Any difficulty in solvingthe problems?";
                         a.GetComponentInChildren<Text>().text = "Yes";
@@ -587,7 +571,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 18:
+                    case 17:
                         HideSegment();
                         ShowSegmentQuestioms();
                         segmentQuesTitleText.text = "Canvas";
@@ -600,16 +584,16 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 19:
+                    case 18:
                         HideSegmentQuestioms();
-                        ShowSegment("Active Experimentation");
+                        ShowSegment("Visual QTypes");
                         Invoke("FadeIn", 8);
                         break;
-                    case 20:
+                    case 19:
                         HideSegment();
                         ShowSegmentQuestioms();
-                        segmentQuesTitleText.text = "Active Experimentation";
-                        segmentQuestionText.text = "1.	How were the 4 activities?";
+                        segmentQuesTitleText.text = "Visual QTypes";
+                        segmentQuestionText.text = "1.	How were the Visual Qtypes at the end of the objective session?";
                         a.gameObject.SetActive(true);
                         b.gameObject.SetActive(true);
                         c.gameObject.SetActive(true);
@@ -624,9 +608,20 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
+                    case 20:
+                        segmentQuesTitleText.text = "Visual QTypes";
+                        segmentQuestionText.text = "2.	Were you able to solve these Visual Qtypes with ease?";
+                        a.GetComponentInChildren<Text>().text = "Yes";
+                        b.GetComponentInChildren<Text>().text = "No";
+                        c.gameObject.SetActive(false);
+                        d.gameObject.SetActive(false);
+                        e.gameObject.SetActive(false);
+                        commentInputText.text = "";
+                        toggleGroup.SetAllTogglesOff();
+                        break;
                     case 21:
-                        segmentQuesTitleText.text = "Active Experimentation";
-                        segmentQuestionText.text = "2.	Were you able to perform the activities with ease?";
+                        segmentQuesTitleText.text = "Visual QTypes";
+                        segmentQuestionText.text = "3.	Did the Visual QTypes module correlate well with the Learning Experience?";
                         a.GetComponentInChildren<Text>().text = "Yes";
                         b.GetComponentInChildren<Text>().text = "No";
                         c.gameObject.SetActive(false);
@@ -636,20 +631,9 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         toggleGroup.SetAllTogglesOff();
                         break;
                     case 22:
-                        segmentQuesTitleText.text = "Active Experimentation";
-                        segmentQuestionText.text = "3.	Did the Active Experimentation module correlate well with the Learning Experience?";
-                        a.GetComponentInChildren<Text>().text = "Yes";
-                        b.GetComponentInChildren<Text>().text = "No";
-                        c.gameObject.SetActive(false);
-                        d.gameObject.SetActive(false);
-                        e.gameObject.SetActive(false);
-                        commentInputText.text = "";
-                        toggleGroup.SetAllTogglesOff();
-                        break;
-                    case 23:
                         HideSegment();
                         ShowSegmentQuestioms();
-                        segmentQuesTitleText.text = "Active Experimentation";
+                        segmentQuesTitleText.text = "Visual QTypes";
                         segmentQuestionText.text = "4.	Any additional inputs";
                         a.gameObject.SetActive(false);
                         b.gameObject.SetActive(false);
@@ -659,7 +643,7 @@ public class mcqfeedbackCanvasManager : MonoBehaviour
                         commentInputText.text = "";
                         toggleGroup.SetAllTogglesOff();
                         break;
-                    case 24:
+                    case 23:
                         HideSegmentQuestioms();
                         Feedback feed = new Feedback();
                         feed.Name = PlayerPrefs.GetString(UtilityArtifacts.UserName, "");

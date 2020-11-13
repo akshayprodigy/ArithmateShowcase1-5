@@ -66,7 +66,7 @@ public class LoginSceneManager : Singleton<LoginSceneManager> {
     public void Login(int  sceneNumber)
     {
         Debug.Log("sceneNumber: " + sceneNumber);
-        loadScene = 10;// sceneNumber;
+        loadScene = 12;// sceneNumber;
         UtilityArtifacts.logInScene = sceneNumber;
         if (sceneNumber == 6)
         {
@@ -74,6 +74,7 @@ public class LoginSceneManager : Singleton<LoginSceneManager> {
             UtilityREST.subtopic_id = 128;
             UtilityREST.qType_id = "267,299,355";
             PlayerPrefs.SetInt("First", 2);
+            UtilityArtifacts.scene_to_load_after_canvas = "obj3";
         }
         else
         if (sceneNumber == 5)
@@ -82,6 +83,7 @@ public class LoginSceneManager : Singleton<LoginSceneManager> {
             UtilityREST.subtopic_id = 128;
             UtilityREST.qType_id = "268";
             PlayerPrefs.SetInt("First", 2);
+            UtilityArtifacts.scene_to_load_after_canvas = "obj2";
         }
         else
             UtilityREST.without_objective = 154;
@@ -152,6 +154,7 @@ public class LoginSceneManager : Singleton<LoginSceneManager> {
         // You could also load the Scene by using sceneBuildIndex. In this case Scene2 has
         // a sceneBuildIndex of 1 as shown in Build Settings.
         // for obj2 7
+
         UtilityArtifacts.currentScene = loadScene;
         AsyncOperation asyncLoad = SceneManager.LoadSceneAsync(loadScene);
 
