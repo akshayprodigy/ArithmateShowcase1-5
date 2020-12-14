@@ -15,10 +15,10 @@ public class proceed : MonoBehaviour
     // Update is called once per frame
     public void next()
     {
-        if(string.Equals(  PlayerPrefs.GetString(UtilityArtifacts.UserPhoneNumber,""),""))
+        //if(string.Equals(  PlayerPrefs.GetString(UtilityArtifacts.UserPhoneNumber,""),""))
             SceneManager.LoadScene(1);
-        else
-            SceneManager.LoadScene(2);
+        //else
+        //    SceneManager.LoadScene(2);
         //SceneManager.LoadScene("obj 16 folding activity 1");
     }
     public void OnClick(GameObject g)
